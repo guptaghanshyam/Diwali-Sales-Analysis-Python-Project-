@@ -2,6 +2,8 @@
 
 This project performs **Exploratory Data Analysis (EDA)** on a Diwali sales dataset using Python libraries like `pandas`, `matplotlib`, and `seaborn`. The goal is to uncover hidden insights about customer demographics, behavior, and sales trends that can help businesses make data-driven decisions during festive seasons.
 
+![Diwali Sales Dashboard](Diwali%20sales%20Analysis.webp)
+
 ---
 
 ## 📌 Objectives
