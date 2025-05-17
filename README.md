@@ -64,4 +64,4 @@ Each chart is customized with color palettes using Seaborn for better readabilit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/diwali-sales-analysis.git
+   git clone https://github.com/guptaghanshyam/Diwali-Sales-Analysis-Python-Project-.git
